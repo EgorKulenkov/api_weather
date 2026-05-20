@@ -42,3 +42,10 @@ In the project core create virtual environment, install requirements.txt, execut
  * `python -m venv venv && source venv/bin/activate`
  * `pip install -r requirements.txt`
  * `python -m pytest -v`
+
+
+
+**PYTESTS**
+<img width="1907" height="104" alt="image" src="https://github.com/user-attachments/assets/b5383512-b256-4895-8306-dad1b186b4fc" />
+
+
